@@ -1,2 +1,4 @@
-host/
+scRNAseq/
 *.swp
+*log
+log.*
